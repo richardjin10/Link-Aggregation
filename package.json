@@ -9,7 +9,7 @@
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "hbs": "^4.0.1",
-    "mongoose": "^5.3.10",
+    "mongoose": "^5.7.5",
     "mongoose-type-email": "^1.0.5",
     "mongoose-url-slugs": "^1.0.2"
   },
